@@ -1,2 +1,0 @@
-def appropriationService= springContext.getBean("material_appropriationService");
-appropriationService.buildOutBound(id);      
