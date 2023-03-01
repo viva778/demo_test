@@ -1,0 +1,14 @@
+material.buttonPropertyshowName.randon1576202002673.flag
+Button.text.select
+Button.text.close
+material.custom.randon1574404333334
+material.custom.wareisNotDifferent
+material.custom.randon1574406106043
+foundation.common.tips.addsuccessfully
+material.custom.random1632635689182
+material.custom.random1632636272673
+material.custom.random1632637987111
+material.custom.randon1573634425210
+BaseSet.viewtitle.randon1569570764419
+material.validator.by_piece_quantity_check
+material.validator.by_piece_int_quantity_check

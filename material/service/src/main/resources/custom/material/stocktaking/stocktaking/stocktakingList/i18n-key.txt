@@ -1,0 +1,5 @@
+ec.common.checkselected
+foundation.common.currency.ok
+foundation.common.cancel
+material.stocktaking.stocktaking_job_finished_already
+material.stocktaking.quick_end_confirm

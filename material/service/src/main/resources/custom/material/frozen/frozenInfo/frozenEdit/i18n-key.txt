@@ -1,0 +1,11 @@
+BaseSet.systemCodevalue.randon1574297148268
+Button.text.select
+Button.text.cancel
+material.custom.randon1574404333334
+material.custom.randon1574406106043
+material.custom.randon1573634425210
+material.standingcrop.Standingcrop
+material.buttonPropertyshowName.randon1576202002673.flag
+ec.ec_view_select_property.selectNullData
+Button.text.close
+foundation.common.tips.addsuccessfully

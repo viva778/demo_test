@@ -1,0 +1,2 @@
+
+foundation.common.tips.addsuccessfully

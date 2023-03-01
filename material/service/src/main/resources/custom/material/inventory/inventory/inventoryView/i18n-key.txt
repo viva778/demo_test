@@ -1,0 +1,12 @@
+Button.text.select
+Button.text.cancel
+material.buttonPropertyshowName.randon1573694108459.flag
+material.custom.interface.emptyWare
+material.custom.inventory.illigalNumber
+material.inventory.InventoryPart.qualityInventory
+material.viewtitle.randon1575447928092
+material.custom.inventory.emptyWare
+material.custom.inventory.confirmToSave
+ec.common.confirm
+ec.common.cancel
+material.custom.inventory.wareHouseInventoryWillClearTableBody

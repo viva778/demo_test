@@ -1,0 +1,16 @@
+ec.ec_view_select_property.selectNullData
+material.validator.data_required
+material.datagrid.cellRequired
+material.unpack.total_quantity_constraint
+material.validator.positive_number
+material.unpack.split_number_constraint
+material.validator.stock_chosen_constraint
+material.validator.no_available_stock
+material.unpack.split_quan_insufficient
+material.printer.dg_data_printed
+material.hint.wait_for_print
+material.custom.random1626763566035
+material.custom.random1626763807232
+material.custom.random1675672923546
+attendence.attStaff.isInstitutionYes
+attendence.attStaff.isInstitutionNo

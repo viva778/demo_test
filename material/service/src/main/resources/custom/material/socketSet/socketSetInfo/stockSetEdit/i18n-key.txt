@@ -1,0 +1,5 @@
+material.custom.SocketSet.goodRepeat
+material.custom.randon1573634425210
+material.custom.randon1581401776564
+material.custom.randon1581401538699
+material.custom.cannot.set.repeatedly

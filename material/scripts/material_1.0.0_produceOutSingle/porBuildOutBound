@@ -1,0 +1,2 @@
+ def produceOutSingService= springContext.getBean("material_produceOutSingService");
+produceOutSingService.buildOutBound(id);     

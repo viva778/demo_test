@@ -1,0 +1,11 @@
+material.custom.ProdReturnTransaction
+material.custom.ProdReturnHousing
+material.custom.ProductionOut.ref
+Button.text.select
+Button.text.close
+foundation.common.tips.addsuccessfully
+material.custom.wareisNotDifferent
+material.custom.CannotBeReferencedRepeatedly
+material.custom.backNum
+material.custom.back.numerror
+material.custom.NotDirectlyEffective

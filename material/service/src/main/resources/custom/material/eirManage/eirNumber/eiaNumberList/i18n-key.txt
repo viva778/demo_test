@@ -1,0 +1,15 @@
+Button.text.save
+Button.text.cancel
+material.custom.random1632882235549
+WMSPRO.viewtitle.randon1618311624912
+material.custom.randon1579066276654
+material.custom.random1632882235549
+Button.text.select
+Button.text.close
+material.buttonPropertyshowName.randon1592465499893.flag
+material.custom.randon1574404333334
+material.custom.randon1574406106043
+foundation.common.tips.addsuccessfully
+material.propertyshowName.randon1632365428600.flag
+material.buttonPropertyshowName.randon1633934851235.flag
+material.buttonPropertyshowName.randon1632883146853.flag

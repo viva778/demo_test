@@ -1,0 +1,10 @@
+Button.text.save
+Button.text.cancel
+material.custom.random1632882235549
+material.custom.randon1579066276654
+Button.text.select
+Button.text.close
+material.custom.randon1574404333334
+material.custom.randon1574406106043
+foundation.common.tips.addsuccessfully
+material.buttonPropertyshowName.randon1592465499893.flag

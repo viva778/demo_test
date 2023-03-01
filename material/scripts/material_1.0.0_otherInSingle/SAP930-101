@@ -1,0 +1,2 @@
+def signal = springContext.getBean("signal");
+signal.delay("SAP_Call_930_Z73",id);     

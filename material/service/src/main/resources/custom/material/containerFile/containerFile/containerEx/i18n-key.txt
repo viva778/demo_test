@@ -1,0 +1,17 @@
+material.datagrid.validator.less_equal_constraint
+material.container.data_aint_changed
+material.container.checked_data_cannot_be_deleted
+material.custom.data_repeat
+material.viewdisplayName.randon1593502505901
+Button.text.select
+Button.text.close
+ec.ec_view_select_property.selectNullData
+ec.common.confirm
+material.container.Unconfirmed_data_cannot_be_deleted
+material.container.confirmed_uninstall
+ec.common.confirm
+ec.common.cancel
+material.container.container_is_bound
+material.container.confirmed_add_unloadover
+material.datagrid.validator.more_constraint
+material.datagrid.validator.no_materQty

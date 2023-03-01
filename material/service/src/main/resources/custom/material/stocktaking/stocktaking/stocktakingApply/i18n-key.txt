@@ -1,0 +1,11 @@
+Button.text.save
+Button.text.close
+Button.text.select
+ec.business.SelectRow
+material.custom.randon1573634425210
+material.custom.data_repeat
+material.custom.no_more_data
+material.stocktaking.choose_move_begin_date_first
+material.stocktaking.choose_taking_way_first
+material.stocktaking.choose_warehouse_first
+material.buttonPropertyshowName.randon1660640743465.flag

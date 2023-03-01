@@ -1,0 +1,13 @@
+material.custom.random1631772102638
+material.custom.randon1574406106043
+material.custom.StayOffTheShelves
+material.custom.randon1574404333334
+qrDetailInfo.sequenceCode
+Button.text.select
+Button.text.close
+material.viewtitle.randon1631183860600
+material.custom.StayOffTheShelves
+material.buttonPropertyshowName.randon1631694355393.flag
+material.buttonPropertyshowName.randon1631790157536.flag
+foundation.common.tips.addsuccessfully
+material.custom.random1633656922530

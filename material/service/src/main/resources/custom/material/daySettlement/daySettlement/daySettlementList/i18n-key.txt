@@ -1,0 +1,2 @@
+material.stock_report.query_by_place
+material.stock_report.query_by_warehouse

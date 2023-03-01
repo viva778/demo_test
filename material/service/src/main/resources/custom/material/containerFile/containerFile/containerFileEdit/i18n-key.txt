@@ -1,0 +1,8 @@
+material.custom.random1630904672204
+material.custom.randon1579066276654
+material.custom.random1634556227044
+material.custom.randon1574406106043
+BaseSet.viewtitle.randon1569570764419
+foundation.common.tips.addsuccessfully
+Button.text.select
+Button.text.close

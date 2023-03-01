@@ -1,0 +1,10 @@
+foundation.modelmanagement.dealsuccess
+EditView.notice.processing
+material.custom.SuccessfullyInitializedDataCannotBeDeleted
+SupDatagrid.button.error
+material.custom.PleaseRefreshTheListManually
+ec.common.confirm
+foundation.signature.cancel
+material.custom.PleaseRefreshManually
+material.custom.ClickGenerateAgain
+material.custom.random1636367076995

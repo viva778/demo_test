@@ -1,0 +1,6 @@
+material.stocktakingJob.StocktakingJob
+material.stocktaking.job_state_constraint
+ec.common.checkselected
+ec.flow.submit
+Button.text.save
+Button.text.cancel

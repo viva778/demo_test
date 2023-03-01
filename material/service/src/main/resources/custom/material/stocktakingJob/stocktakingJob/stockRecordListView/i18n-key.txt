@@ -1,0 +1,2 @@
+material.stocktaking.line_data_was_checked
+ec.common.checkselected

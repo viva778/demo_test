@@ -1,0 +1,8 @@
+material.purchaseInfos.PurchaseInfo
+Button.text.select
+Button.text.cancel
+SupDatagrid.button.error
+material.custom.purchaseInfo.orderAlreadyClosed
+material.custom.purchaseInfo.orderAlreadyOpened
+foundation.modelmanagement.dealsuccess
+material.custom.OperateSuccess

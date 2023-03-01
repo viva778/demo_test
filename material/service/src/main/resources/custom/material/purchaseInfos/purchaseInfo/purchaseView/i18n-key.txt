@@ -1,0 +1,11 @@
+material.purchaseInfos.PurchaseInfo
+Button.text.select
+Button.text.cancel
+SupDatagrid.button.error
+material.custom.purchaseInfo.orderAlreadyClosed
+material.custom.purchaseInfo.orderAlreadyOpened
+EditView.notice.operate.success
+foundation.modelmanagement.dealsuccess
+material.custom.OperateSuccess
+material.custom.NotDirectlyEffective
+material.custom.OutboundTaskNotCompleted

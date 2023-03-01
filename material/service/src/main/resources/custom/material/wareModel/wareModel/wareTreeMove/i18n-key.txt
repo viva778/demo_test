@@ -1,0 +1,13 @@
+foundation.tree.root
+Button.text.save
+Button.text.close
+material.custom.NodesOfTheSameLevelAreNotAllowedoMove
+material.custom.MovementsToSubordinateNodesAreNotAllowed
+material.custom.operate.warn.makeSureSiteBelowToPresentSite
+Button.text.ok
+Button.text.cancel
+material.custom.warn.repeatMove
+ec.common.confirm
+EditView.notice.operate.success
+pickSIteTreeMoveDialog
+Notification.message.title.info

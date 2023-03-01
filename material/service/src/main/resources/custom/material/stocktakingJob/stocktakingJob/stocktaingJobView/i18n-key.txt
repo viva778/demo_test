@@ -1,0 +1,7 @@
+material.datagrid.cellRequired
+ec.business.SelectRow
+material.custom.data_repeat
+material.stocktaking.cannot_find_place_in_base
+material.stocktaking.choose_job_detail_first
+material.stocktaking.cannot_delete_data_with_quan
+material.stocktaking.fill_count_quan

@@ -1,0 +1,17 @@
+material.custom.randon1573634425210
+material.custom.randon1575595770909
+material.custom.random1632634240892
+material.custom.random1632634384451
+BaseSet.viewtitle.randon1569570764419
+material.custom.CannotBeReferencedRepeatedly
+material.custom.randon1574406106043
+foundation.common.tips.addsuccessfully
+Button.text.select
+Button.text.close
+material.custom.SocketSet.confirm
+attendence.attStaff.isInstitutionYes
+attendence.attStaff.isInstitutionNo
+material.custom.can.only.beOne
+material.datagrid.cellRequired
+material.custom.randonAfterclearingBody
+material.custom.randonAfterModifyBody

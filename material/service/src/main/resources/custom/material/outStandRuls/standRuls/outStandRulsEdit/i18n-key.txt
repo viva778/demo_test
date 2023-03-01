@@ -1,0 +1,11 @@
+material.custom.randon1577152761841
+material.custom.randon1574406106043
+material.custom.randon1577153365286
+EditView.notice.operate.success
+SupDatagrid.button.error
+material.custom.emptyAndCannotEnabled
+
+material.custom.cannot.be.duplicate
+material.custom.can.not.empty.except.for.custom.sorting
+material.custom.cannot.be.empty
+material.custom.The.content.of.issue.rule.is.empty

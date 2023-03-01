@@ -1,0 +1,2 @@
+def otherOutSingleService= springContext.getBean("material_otherOutSingleService");
+otherOutSingleService.buildOutBound(id);    

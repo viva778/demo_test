@@ -1,0 +1,2 @@
+ def signal = springContext.getBean("signal");
+ signal.activate("GenerateInboundTask","produceStorageBack",id);  

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.1.0"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <OCD description="%material.Management" name="%material.Management" id="platform.bap.material" type="flat"
+         isWs="true" moduleCode="material_1.0.0">
+
+        <AD name="%material.purArrivalInfoInspect" id="material.purArrivalInfos" cardinality="1" hasEmpty="false"
+            required="true" description="%material.purArrivalInfoInspect" type="Boolean" default="false" order="1"
+            isWs="true">
+            <Option label="是" value="true" order="0"/>
+            <Option label="否" value="false" order="1"/>
+        </AD>
+
+        <AD name="%material.stockEnable" id="material.stockEnable" cardinality="1" hasEmpty="false" required="true"
+            description="%material.storageType" type="String" order="4" isWs="true">
+            <Option label="%material.NotEnabled" value="no" order="0" selected="selected"/>
+            <Option label="%material.Warehouse" value="ware" order="1"/>
+            <Option label="%material.Material" value="good" order="2"/>
+        </AD>
+
+        <AD name="%material.batchUniqueRule" id="material.batchUniqueRule" cardinality="1" hasEmpty="false"
+            required="true" description="%material.batchUniqueRule" type="String" order="5" isWs="true">
+            <Option label="%material.batchUnique" value="batchUnique" order="0" selected="selected"/>
+            <Option label="%material.batchMaterialUnique" value="batchMaterialUnique" order="1"/>
+        </AD>
+
+        <AD name="%material.wmspro" id="material.wmspro" cardinality="1" hasEmpty="false" required="true"
+            description="%material.ProDescribek" type="Boolean" default="false" order="6" isWs="true">
+            <Option label="是" value="true" order="0"/>
+            <Option label="否" value="false" order="1"/>
+        </AD>
+        <AD name="%material.arrivalBeforeCheck" id="material.arrivalCheck" cardinality="1" hasEmpty="false"
+            required="true" description="%material.arrivalBeforeCheck" type="Boolean" default="false" order="7"
+            isWs="true">
+            <Option label="是" value="true" order="0"/>
+            <Option label="否" value="false" order="1"/>
+        </AD>
+
+        <AD name="%material.enablePrinter" id="material.enablePrinter" cardinality="1" hasEmpty="false"
+            required="true" description="%material.printerDescription" type="Boolean" default="true" order="8"
+            isWs="true">
+            <Option label="是" value="true" order="0"/>
+            <Option label="否" value="false" order="1"/>
+        </AD>
+
+        <AD name="%material.otherInCheckOptions" id="material.otherInCheckOptions" cardinality="1" hasEmpty="false"
+            required="true" description="%material.otherInCheckOptions" type="String" default="no" order="9"
+            isWs="true">
+            <Option label="%material.otherInCheckOptions.no" value="no" order="0" selected="selected"/>
+            <Option label="%material.otherInCheckOptions.incoming" value="incoming" order="1"/>
+            <Option label="%material.otherInCheckOptions.other" value="other" order="2"/>
+        </AD>
+
+    </OCD>
+
+
+    <Localization locale="zh_CN">
+        material.wmspro=启用上下架任务
+        material.ProDescribek=是否启用出入库任务管理（需配合PDA使用）
+        material.Management=仓库管理
+        material.purArrivalInfoInspect=采购到货是否发起请检
+        material.stockEnable=物料仓库存货关系
+        material.storageType=选择存储方式
+        material.NotEnabled=不启用
+        material.Warehouse=仓库设置物料
+        material.Material=物料设置仓库
+        material.batchUniqueRule=批次唯一规则
+        material.batchUnique=批次唯一
+        material.batchMaterialUnique=物料+批次唯一
+        material.arrivalBeforeCheck=是否在质检完成前生成采购入库
+        material.otherInCheckOptions=其他入库单请检设置
+        material.otherInCheckOptions.no=不发起请检
+        material.otherInCheckOptions.incoming=来料检验
+        material.otherInCheckOptions.other=其他检验
+        material.enablePrinter=拆包调用打印机
+        material.printerDescription=若不启用则拆包只会生成条码台账
+    </Localization>
+    <Localization locale="en_US">
+        material.wmspro=Enable Shelve/Pick Task
+        material.ProDescribek=Whether to enable inbound and outbound task management (need to use with PDA）
+        material.Management=Warehouse Management
+        material.purArrivalInfoInspect=Request for inspection initiated by purchase arrival
+        material.stockEnable=Inventory relation of material warehouse
+        material.storageType=Select storage method
+        material.NotEnabled=Not enabled
+        material.Warehouse=Warehouse setup material
+        material.Material=Material setting warehouse
+        material.batchUniqueRule=Batch unique rule
+        material.batchUnique=Batch
+        material.batchMaterialUnique=Material+Batch
+        material.arrivalBeforeCheck=Generate purchase receipt before quality inspection
+        material.otherInCheckOptions=Other receipt doc inspection request settings
+        material.otherInCheckOptions.no=Do not initiate inspection
+        material.otherInCheckOptions.incoming=Incoming inspection
+        material.otherInCheckOptions.other=Other inspection
+        material.enablePrinter=Enable Printer
+        material.printerDescription=If it is not enabled, unpacking will only generate a barcode ledger
+    </Localization>
+
+</metatype:MetaData>

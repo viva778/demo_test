@@ -1,0 +1,10 @@
+BaseSet.systemCodevalue.randon1574297148268
+Button.text.select
+Button.text.close
+material.custom.randon1574404333334
+material.custom.randon1574406106043
+material.custom.randon1573634425210
+material.custom.randon1574407346830
+material.standingcrop.Standingcrop
+material.viewdisplayName.randon1574151361767
+material.custom.saldeil.null

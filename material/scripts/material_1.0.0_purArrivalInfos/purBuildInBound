@@ -1,0 +1,2 @@
+ def purArrivalInfoService= springContext.getBean("material_purArrivalInfoService");
+purArrivalInfoService.buildInBound(id);     
